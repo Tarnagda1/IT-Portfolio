@@ -4,25 +4,24 @@ Welcome to my personal project! I'm an entry-level IT professional passionate ab
 
 ---
 
-## 🧠 Project Overview
+## 🧰 IT Infrastructure & Administration Projects
   
 **Description:** This project focuses on the admnistration of microsoft server and linux, troubleshooting and network configuration in a lab environment, 
 It's designed to demonstrate my foundational skills in IT infrastructure and support, using tools and platforms I've worked with during labs, coursework, and self-learning.
 
 ---
 
-## IT Infrastructure & Administration Projects
 ## Microsoft Windows Server Administration
 
--Installed & configured Windows Server 2012 R2, 2016, 2022
+Installed & configured Windows Server 2012 R2, 2016, 2022
 
--Active Directory setup: users, groups, OUs, GPOs
+Active Directory setup: users, groups, OUs, GPOs
 
--DHCP & DNS server deployment
+DHCP & DNS server deployment
 
--Print services configuration
+Print services configuration
 
--Folder permissions & shared drive setup
+Folder permissions & shared drive setup
 
 ---
 
@@ -41,8 +40,6 @@ VPN configuration & basic firewall rules
 ## Virtualization
 
 Built multi-VM labs using Oracle VirtualBox & VMware Workstation
-
-Simulated enterprise environments (Windows & Linux mix)
 
 ---
 
@@ -64,7 +61,7 @@ Deployed EC2 instances
 
 Created EBS volumes and basic storage policies
 
-Scripting & Automation
+VPC creaton and Managment
 
 ---
 
@@ -73,8 +70,6 @@ Scripting & Automation
 AD Bulk User Creation Script
 
 File system automation scripts
-
-Event log parsing (basic)
 
 ---
 
@@ -90,8 +85,6 @@ Network interface configuration
 
 Automation scripts for file and system tasks
 
-Lab tool to simulate IT ticket handling
-
 Basic CLI utilities for learning
 
 ---
@@ -101,3 +94,13 @@ Basic CLI utilities for learning
 Wrote and ran basic queries for user data and asset tracking
 
 Simulated small database environments in labs
+
+---
+
+## Microsoft Office 365
+
+Word document
+
+Powerpoint
+
+## Ticketing system ( SpiceWroks)
