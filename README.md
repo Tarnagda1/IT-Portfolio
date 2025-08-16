@@ -11,62 +11,93 @@ It's designed to demonstrate my foundational skills in IT infrastructure and sup
 
 ---
 
-## 💻 Microsoft Server Administration
+## IT Infrastructure & Administration Projects
+## Microsoft Windows Server Administration
 
-- Installation of Windows Server 2012 R2 , 2016, 2022
-- Active Directory and Remote Admin
-- Managing Folders and files
-- Printing Services
-- DHCP and DNS Servers    
+-Installed & configured Windows Server 2012 R2, 2016, 2022
 
----
+-Active Directory setup: users, groups, OUs, GPOs
 
-## 🛠️ Active Directory & Group Policy
+-DHCP & DNS server deployment
 
-- Created and managed user accounts, groups, and OUs  
-- Implemented group policies for access control  
-- Configured file sharing within an AD environment
+-Print services configuration
+
+-Folder permissions & shared drive setup
 
 ---
 
-## 🌐 Networking
+## Networking (Lab-Based)
 
-- VLAN Configuration  
-- Routing & Switching  
-- NAT (Network Address Translation)  
-- STP / PVSTP  
-- OSPF (Open Shortest Path First)  
-- ACLs (Access Control Lists)    
-- TCP/IP, Subnetting  
-- VPN  
-- Firewall setup
+VLAN setup & inter-VLAN routing
+
+OSPF, NAT, ACLs, STP/PVSTP
+
+Subnetting exercises (IPv4)
+
+VPN configuration & basic firewall rules
 
 ---
 
-## 💾 Virtualization Tools
+## Virtualization
 
-- Oracle VirtualBox  
-- VMware Workstation
+Built multi-VM labs using Oracle VirtualBox & VMware Workstation
+
+Simulated enterprise environments (Windows & Linux mix)
+
+---
+
+## Cloud Projects
+
+Microsoft Azure
+
+Deployed virtual machines
+
+Configured virtual networks & NSGs
+
+Managed Azure Storage & Resource Groups
 
 ---
 
-## ☁️ Cloud Platform Skills
+## AWS
 
-- Microsoft Azure  
-  - Created and managed virtual machines  
-  - Configured basic virtual networking  
-  - Managed storage and resource groups
-- Amazon Web Services (AWS)
-  - Deployment of an insatance
-  - Creating and Managing PVC
-    
----
+Deployed EC2 instances
 
-## 🖥️ Programming & Scripting
+Created EBS volumes and basic storage policies
 
-- PowerShell (Windows automation)  
-- Bash (Linux scripting)  
-- SQL (basic database queries and admin)  
-- Python (automation scripts and utilities)
+Scripting & Automation
 
 ---
+
+## PowerShell
+
+AD Bulk User Creation Script
+
+File system automation scripts
+
+Event log parsing (basic)
+
+---
+
+## Bash
+
+Linux user management & system update scripts
+
+Network interface configuration
+
+---
+
+## Python
+
+Automation scripts for file and system tasks
+
+Lab tool to simulate IT ticket handling
+
+Basic CLI utilities for learning
+
+---
+
+## SQL
+
+Wrote and ran basic queries for user data and asset tracking
+
+Simulated small database environments in labs
