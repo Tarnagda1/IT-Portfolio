@@ -1,14 +1,12 @@
 # 👋 Hi, I'm Tarnagda
 
-Welcome to my personal project! I'm an entry-level IT professional passionate about systems administration, networking, and automation. This project showcases my hands-on experience with technologies across operating systems, networking, cloud, scripting, and virtualization.
+Welcome to my personal project! I'm an entry-level IT professional passionate about systems administration, networking, and Security. This project showcases my hands-on experience with technologies across operating systems, hardware, networking, cloud and virtualization.
 
 ---
 
 ## 🧠 Project Overview
-
-**Project Title:** *Information Technology*  
-**Description:** This project focuses on [brief explanation — e.g., automating system monitoring using Python and PowerShell, configuring VLANs in a lab environment, deploying virtual servers with Azure, etc.].
-
+  
+**Description:** This project focuses on the admnistration of microsoft server and linux, troubleshooting and network configuration in a lab environment, 
 It's designed to demonstrate my foundational skills in IT infrastructure and support, using tools and platforms I've worked with during labs, coursework, and self-learning.
 
 ---
@@ -38,11 +36,8 @@ It's designed to demonstrate my foundational skills in IT infrastructure and sup
 - NAT (Network Address Translation)  
 - STP / PVSTP  
 - OSPF (Open Shortest Path First)  
-- ACLs (Access Control Lists)  
-- Subnetting  
-- TCP/IP  
-- DNS  
-- DHCP  
+- ACLs (Access Control Lists)    
+- TCP/IP, Subnetting  
 - VPN  
 - Firewall setup
 
