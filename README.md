@@ -11,96 +11,75 @@ It's designed to demonstrate my foundational skills in IT infrastructure and sup
 
 ---
 
-## Microsoft Windows Server Administration
+## 🖥️ Microsoft Windows Server Administration
 
-Installed & configured Windows Server 2012 R2, 2016, 2022
-
-Active Directory setup: users, groups, OUs, GPOs
-
-DHCP & DNS server deployment
-
-Print services configuration
-
-Folder permissions & shared drive setup
+- [Active Directory setup & Management](https://github.com/Tarnagda1/IT-Projects/tree/main/microsoft-windows-server/active-directory)
+- [DHCP & DNS deployment](https://github.com/Tarnagda1/IT-Projects/tree/main/microsoft-windows-server/dhcp-dns)
+- [Print services configuration](https://github.com/Tarnagda1/IT-Projects/tree/main/microsoft-windows-server/print-services)
+- [Folder permissions & shared drive](https://github.com/Tarnagda/IT-Projects/tree/main/microsoft-windows-server/folder-permissions)
 
 ---
 
-## Networking (Lab-Based)
+## 🌐 Networking (Lab-Based)
 
-VLAN setup & inter-VLAN routing
-
-OSPF, NAT, ACLs, STP/PVSTP
-
-Subnetting exercises (IPv4)
-
-VPN configuration & basic firewall rules
+- [VLAN & inter-VLAN routing](https://github.com/Tarnagda1/IT-Projects/tree/main/networking/vlan-routing)
+- [OSPF, NAT, ACLs, STP](https://github.com/Tarnagda1/IT-Projects/tree/main/networking/ospf-nat-acl)
+- [Subnetting exercises](https://github.com/Tarnagda1/IT-Projects/tree/main/networking/subnetting)
+- [VPN & firewall config](https://github.com/Tarnagda1/IT-Projects/tree/main/networking/vpn-firewall)
 
 ---
 
-## Virtualization
+## 🖥️ Virtualization
 
-Built multi-VM labs using Oracle VirtualBox & VMware Workstation
-
----
-
-## Cloud Projects
-
-Microsoft Azure
-
-Deployed virtual machines
-
-Configured virtual networks & NSGs
-
-Managed Azure Storage & Resource Groups
+- [Multi-VM labs with VirtualBox & VMware](https://github.com/Tarnagda1/IT-projects/tree/main/virtulization)
 
 ---
 
-## AWS
+## ☁️ Cloud Projects
 
-Deployed EC2 instances
+### Microsoft Azure 
+- [Deployed VMs, networks, NSGs, Storage](https://github.com/Tarnagda1/IT-projects/tree/main/virtulization)
 
-Created EBS volumes and basic storage policies
+### AWS
 
-VPC creaton and Managment
-
----
-
-## PowerShell
-
-AD Bulk User Creation Script
-
-File system automation scripts
+- [EC2, EBS, VPC configuration](https://github.com/Tarnagda1/IT-Projects/tree/main/cloud/aws)
 
 ---
 
-## Bash
+## 💻 PowerShell Scripts
 
-Linux user management & system update scripts
-
-Network interface configuration
-
----
-
-## Python
-
-Automation scripts for file and system tasks
-
-Basic CLI utilities for learning
+- [AD bulk user creation](https://github.com/your-username/IT-Projects/tree/main/Powershell/scripting)  
+- [File system and printing automation](https://github.com/your-username/IT-Projects/tree/main/Powershell/scripting)  
 
 ---
 
-## SQL
+## 🐧 Bash Scripts
 
-Wrote and ran basic queries for user data and asset tracking
-
-Simulated small database environments in labs
+- [Linux user & system updates](https://github.com/your-username/IT-Projects/tree/main/bash) 
 
 ---
 
-## Microsoft Office 365
+## 🐍 Python Scripts
 
-Word document
+- [File automation](https://github.com/your-username/IT-Projects/tree/main/python)  
+- [CLI utilities](https://github.com/your-username/IT-Projects/tree/main/python)
 
-Powerpoint
+---
 
-## Ticketing system ( SpiceWroks)
+## 🗃️ SQL Projects
+
+- [Basic queries](https://github.com/your-username/IT-Projects/tree/main/sql)  
+- [Simulated lab databases](https://github.com/your-username/IT-Projects/tree/main/sql) 
+
+---
+
+## 🧾 Microsoft Office 365 Work
+
+- [Word and PowerPoint examples](https://github.com/your-username/IT-Projects/tree/main/office365)
+
+---
+
+## 🎫 Ticketing System: Spiceworks
+
+- [Sample tickets](https://github.com/your-username/IT-Projects/tree/main/spiceworks-ticketing)
+- [Issue tracking walkthroughs](https://github.com/your-username/IT-Projects/tree/main/spiceworks-ticketing)
