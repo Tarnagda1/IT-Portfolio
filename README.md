@@ -13,73 +13,73 @@ It's designed to demonstrate my foundational skills in IT infrastructure and sup
 
 ## 🖥️ Microsoft Windows Server Administration
 
-- [Active Directory setup & Management](https://github.com/Tarnagda1/IT-Projects/tree/main/microsoft-windows-server/active-directory)
-- [DHCP & DNS deployment](https://github.com/Tarnagda1/IT-Projects/tree/main/microsoft-windows-server/dhcp-dns)
-- [Print services configuration](https://github.com/Tarnagda1/IT-Projects/tree/main/microsoft-windows-server/print-services)
-- [Folder permissions & shared drive](https://github.com/Tarnagda/IT-Projects/tree/main/microsoft-windows-server/folder-permissions)
+- [Active Directory setup & Management](docs/active-directory-setup.md)
+- [DHCP & DNS deployment](docs/dhcp-dns-deployment.md)
+- [Print services configuration](docs/print-services-configuration.md)
+- [Folder permissions & shared drive](docs/folder-permissions-shared-drive.md)
 
 ---
 
 ## 🌐 Networking (Lab-Based)
 
-- [VLAN & inter-VLAN routing](https://github.com/Tarnagda1/IT-Projects/tree/main/networking/vlan-routing)
-- [OSPF, NAT, ACLs, STP](https://github.com/Tarnagda1/IT-Projects/tree/main/networking/ospf-nat-acl)
-- [Subnetting exercises](https://github.com/Tarnagda1/IT-Projects/tree/main/networking/subnetting)
-- [VPN & firewall config](https://github.com/Tarnagda1/IT-Projects/tree/main/networking/vpn-firewall)
+- [VLAN & inter-VLAN routing](docs/networking/vlan-routing.md)
+- [OSPF, NAT, ACLs, STP](docs/networking/ospf-nat-acls-stp.md)
+- [Subnetting exercises](docs/networking/subnetting-exercises.md)
+- [VPN & firewall config](docs/networking/vpn-firewall-config.md)
 
 ---
 
 ## 🖥️ Virtualization
 
-- [Multi-VM labs with VirtualBox & VMware](https://github.com/Tarnagda1/IT-projects/tree/main/virtulization)
+- [Multi-VM labs with VirtualBox & VMware](docs/virtualization/multi-vm-labs.md)
 
 ---
 
 ## ☁️ Cloud Projects
 
 ### Microsoft Azure 
-- [Deployed VMs, networks, NSGs, Storage](https://github.com/Tarnagda1/IT-projects/tree/main/virtulization)
+- [Deployed VMs, networks, NSGs, Storage](docs/cloud/azure.md)
 
 ### AWS
 
-- [EC2, EBS, VPC configuration](https://github.com/Tarnagda1/IT-Projects/tree/main/cloud/aws)
+- [EC2, EBS, VPC configuration](docs/cloud/aws.md)
 
 ---
 
 ## 💻 PowerShell Scripts
 
-- [AD bulk user creation](https://github.com/your-username/IT-Projects/tree/main/Powershell/scripting)  
-- [File system and printing automation](https://github.com/your-username/IT-Projects/tree/main/Powershell/scripting)  
+- [AD bulk user creation](docs/scripts/powershell-ad-user-creation.md) 
+- [File system and printing automation](docs/scripts/powershell-file-printing.md)
 
 ---
 
 ## 🐧 Bash Scripts
 
-- [Linux user & system updates](https://github.com/your-username/IT-Projects/tree/main/bash) 
+- [Linux user & system updates](docs/scripts/bash-linux-updates.md)
 
 ---
 
 ## 🐍 Python Scripts
 
-- [File automation](https://github.com/your-username/IT-Projects/tree/main/python)  
-- [CLI utilities](https://github.com/your-username/IT-Projects/tree/main/python)
+- [File automation](docs/scripts/python-file-automation.md)  
+- [CLI utilities](docs/scripts/python-cli-utilities.md)
 
 ---
 
 ## 🗃️ SQL Projects
 
-- [Basic queries](https://github.com/your-username/IT-Projects/tree/main/sql)  
-- [Simulated lab databases](https://github.com/your-username/IT-Projects/tree/main/sql) 
+- [Basic queries] (docs/sql/basic-queries.md)
+- [Simulated lab databases](docs/sql/simulated-lab-databases.md)
 
 ---
 
 ## 🧾 Microsoft Office 365 Work
 
-- [Word and PowerPoint examples](https://github.com/your-username/IT-Projects/tree/main/office365)
+- [Word and PowerPoint](docs/o365/word-powerpoint-examples.md)
 
 ---
 
-## 🎫 Ticketing System: Spiceworks
+## 🎫 Ticketing System: Jira
 
-- [Sample tickets](https://github.com/your-username/IT-Projects/tree/main/spiceworks-ticketing)
-- [Issue tracking walkthroughs](https://github.com/your-username/IT-Projects/tree/main/spiceworks-ticketing)
+- [Sample tickets](docs/ticketing/spiceworks-sample-tickets.md)
+- [Issue tracking walkthroughs](docs/ticketing/issue-tracking-walkthrough.md)
