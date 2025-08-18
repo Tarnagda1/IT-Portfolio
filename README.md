@@ -29,22 +29,9 @@ It's designed to demonstrate my foundational skills in IT infrastructure and sup
 
 ---
 
-## 🖥️ Virtualization
-
-- [Multi-VM labs with VirtualBox & VMware](docs/virtualization/multi-vm-labs.md)
-
----
-
-## ☁️ Cloud Projects
-
-### Microsoft Azure 
-- [Deployed VMs, networks, NSGs, Storage](docs/cloud/azure.md)
-
-### AWS
-
-- [EC2, EBS, VPC configuration](docs/cloud/aws.md)
-
----
+## Hardware
+- Assembling Computer hardware
+- Installation of Ram and CPU
 
 ## 💻 PowerShell Scripts
 
