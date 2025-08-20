@@ -6,13 +6,14 @@ Welcome to my personal project! I'm an entry-level IT professional passionate ab
 
 ## 🧰 IT Infrastructure & Administration Projects
   
-**Description:** This project focuses on the admnistration of microsoft server and linux, troubleshooting and network configuration in a lab environment, 
+**Description:** This project focuses on microsoft server and linux Administration, troubleshooting and network configuration in a lab environment. 
 It's designed to demonstrate my foundational skills in IT infrastructure and support, using tools and platforms I've worked with during labs, coursework, and self-learning.
 
 ---
 
 ## 🖥️ Microsoft Windows Server Administration
 
+- [Installation of Windows Server](docs/insttalation-windows-server.md)
 - [Active Directory setup & Management](docs/active-directory-setup.md)
 - [DHCP & DNS deployment](docs/dhcp-dns-deployment.md)
 - [Print services configuration](docs/print-services-configuration.md)
@@ -47,40 +48,36 @@ It's designed to demonstrate my foundational skills in IT infrastructure and sup
 
 ---
 
-## 💻 PowerShell Scripts
+## ⚙️ Programming & Scripts
+
+### 💻 PowerShell Scripts
 
 - [AD bulk user creation](docs/scripts/powershell-ad-user-creation.md) 
 - [File system and printing automation](docs/scripts/powershell-file-printing.md)
 
----
-
-## 🐧 Bash Scripts
+### 🐧 Bash Scripts
 
 - [Linux user & system updates](docs/scripts/bash-linux-updates.md)
 
----
-
-## 🐍 Python Scripts
+### 🐍 Python Scripts
 
 - [File automation](docs/scripts/python-file-automation.md)  
 - [CLI utilities](docs/scripts/python-cli-utilities.md)
 
----
+### 🗃️ SQL Projects
 
-## 🗃️ SQL Projects
-
-- [Basic queries] (docs/sql/basic-queries.md)
+- [Basic queries](docs/sql/basic-queries.md)
 - [Simulated lab databases](docs/sql/simulated-lab-databases.md)
 
 ---
 
-## 🧾 Microsoft Office 365 Work
+## 🧾 Microsoft Office 365
 
 - [Word and PowerPoint](docs/o365/word-powerpoint-examples.md)
 
 ---
 
-## 🎫 Ticketing System: Jira
+## 🎫 Ticketing System: SpiceWorks
 
 - [Sample tickets](docs/ticketing/spiceworks-sample-tickets.md)
 - [Issue tracking walkthroughs](docs/ticketing/issue-tracking-walkthrough.md)
