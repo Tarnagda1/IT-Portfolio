@@ -3,122 +3,118 @@
 # 🏠 Home Lab Portfolio – IT Infrastructure & Security
 
 ## 👨‍💻 About Me
-I am an entry-level IT professional with a strong interest in systems administration, networking, and cybersecurity.  
-This repository showcases hands-on lab projects where I design, build, and troubleshoot real-world IT environments using Windows Server, Linux, AWS, and networking tools.
+
+I am an entry-level IT professional with a strong interest in systems administration, networking, and cybersecurity.
+This repository showcases hands-on lab projects where I design, build, and troubleshoot real-world IT environments using industry-standard tools and platforms.
 
 ---
 
 ## 🧠 Key Skills Demonstrated
-- Windows Server Administration (Active Directory, DNS, DHCP)  
-- Linux System Administration  
-- Networking (VLANs, OSPF, NAT, ACLs)  
-- Cloud Computing (AWS & Azure)  
-- Virtualization (VMware, VirtualBox)  
-- Scripting (PowerShell, Bash, Python)  
-- IT Troubleshooting & Helpdesk Support  
+
+* Windows Server Administration (Active Directory, DNS, DHCP)
+* Linux System Administration
+* Networking (VLANs, OSPF, NAT, ACLs)
+* Cloud Computing (AWS & Azure)
+* Virtualization (VMware, VirtualBox)
+* Scripting & Automation (PowerShell, Bash, Python)
+* IT Troubleshooting & Support
 
 ---
 
 ## 🧰 Featured Projects
 
----
+### 🔹 Active Directory Domain Lab
 
-### 🔹 Active Directory Domain Lab  
-Built a Windows Server domain environment with centralized authentication, user management, and Group Policy configuration.
+**Objective:** Build and manage a Windows Server domain environment
 
-- Domain Controller setup  
-- Organizational Units (OUs)  
-- Group Policy Objects (GPOs)  
-- Client domain join testing  
+**What I Did:**
 
-📂 View Project: windows-server-ad
+* Installed Windows Server and configured as Domain Controller
+* Created Organizational Units (OUs) and users
+* Configured Group Policy Objects (GPOs)
+* Joined Windows 10 client to domain
+* Tested authentication and access control
 
----
-
-### 🔹 Networking Lab (VLANs & Routing)  
-Simulated enterprise network with VLAN segmentation, inter-VLAN routing, and dynamic routing configuration.
-
-- VLAN setup  
-- Inter-VLAN routing  
-- OSPF routing  
-- NAT and ACL configuration  
-
-📂 View Project: networking-lab
+📂 [View Project](windows-server-ad/README.md)
 
 ---
 
-### 🔹 Web Infrastructure & Load Balancing Lab  
-Built a multi-server Linux environment with load balancing and synchronization between servers.
+### 🔹 Networking Lab (VLANs & Routing)
 
-- Load balancing (iptables NAT)  
-- Multiple web servers  
-- rsync synchronization  
-- SSH key authentication  
+**Objective:** Simulate a segmented enterprise network
 
-📂 View Project: load-balancing-lab
+**What I Did:**
 
----
+* Configured VLANs and inter-VLAN routing
+* Implemented OSPF routing
+* Applied NAT and Access Control Lists (ACLs)
+* Tested connectivity between subnets
 
-### 🔹 AWS Cloud Infrastructure Lab  
-Deployed a secure cloud architecture using AWS services.
-
-- VPC setup  
-- Public and private subnets  
-- EC2 instances  
-- Security Groups and NACLs  
-
-📂 View Project: aws-lab
+📂 [View Project](networking-lab/README.md)
 
 ---
 
-### 🔹 Scripting & Automation  
-Automation of system administration tasks using multiple scripting languages.
+### 🔹 AWS Cloud Infrastructure Lab
 
-- PowerShell (AD automation, user creation)  
-- Bash (system updates, user management)  
-- Python (file handling utilities)  
+**Objective:** Deploy and secure cloud-based infrastructure
 
-📂 View Project: scripting-automation
+**What I Did:**
+
+* Created VPC with public and private subnets
+* Launched EC2 instances
+* Configured Security Groups and NACLs
+* Attached and managed EBS volumes
+
+📂 [View Project](aws-lab/README.md)
 
 ---
 
-### 🔹 IT Support Simulation (Helpdesk Lab)  
-Simulated real-world IT support ticketing and troubleshooting scenarios.
+### 🔹 Scripting & Automation
 
-- Ticket creation and tracking  
-- Troubleshooting documentation  
-- Issue resolution workflows  
+**PowerShell:**
 
-📂 View Project: helpdesk-lab
+* Automated Active Directory user creation
+* Managed file permissions
+
+**Bash:**
+
+* Automated system updates and user management
+
+**Python:**
+
+* Built CLI tools for file handling
+
+📂 [View Project](scripting-automation/README.md)
+
+---
+
+### 🔹 IT Support Simulation (SpiceWorks)
+
+**Objective:** Simulate real-world helpdesk scenarios
+
+**Examples:**
+
+* Resolved user login issues (Active Directory permissions)
+* Troubleshot printer connectivity issues
+* Documented ticket lifecycle and resolution steps
+
+📂 [View Project](helpdesk-lab/README.md)
 
 ---
 
 ## 🧪 Tools & Technologies
-Windows Server • Linux • AWS • Azure • VMware • VirtualBox • PowerShell • Bash • Python • SpiceWorks
 
----
-
-## 📁 Repository Structure
-
-home-lab-repo/  
-│── README.md  
-│  
-├── windows-server-ad/  
-│   └── README.md  
-├── networking-lab/  
-│   └── README.md  
-├── load-balancing-lab/  
-│   └── README.md  
-├── aws-lab/  
-│   └── README.md  
-├── scripting-automation/  
-│   └── README.md  
-└── helpdesk-lab/  
-    └── README.md  
+* Windows Server 2019/2022
+* Linux (Ubuntu / CentOS)
+* AWS & Microsoft Azure
+* VMware / VirtualBox
+* PowerShell, Bash, Python
+* SpiceWorks Ticketing System
 
 ---
 
 ## 📌 Goal
-To build real-world IT experience through hands-on labs and prepare for roles in IT support, system administration, networking, and cloud engineering.
 
---
+To continuously improve my skills and transition into a role in IT support, system administration, or cloud engineering.
+
+---
