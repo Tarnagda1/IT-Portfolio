@@ -31,8 +31,6 @@ What I Did:
 - Joined Windows 10 client to domain  
 - Tested authentication and access control  
 
-📸 Includes: Screenshots, configurations, and test results  
-
 ---
 
 ### 🔹 Networking Lab (VLANs & Routing)
@@ -44,8 +42,6 @@ What I Did:
 - Applied NAT and Access Control Lists (ACLs)  
 - Tested connectivity between subnets  
 
-📸 Includes: Network diagram + CLI configurations  
-
 ---
 
 ### 🔹 AWS Cloud Infrastructure Lab
@@ -56,8 +52,6 @@ What I Did:
 - Launched EC2 instances  
 - Configured Security Groups and NACLs  
 - Attached and managed EBS volumes  
-
-📸 Includes: Architecture diagram and deployment steps  
 
 ---
 
