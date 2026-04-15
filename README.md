@@ -17,6 +17,8 @@ This repository showcases hands-on lab projects where I design, build, and troub
 * Cloud Computing (AWS & Azure)
 * Virtualization (VMware, VirtualBox)
 * Scripting & Automation (PowerShell, Bash, Python)
+* Identity & Access Management (Microsoft Entra ID, MFA)
+* Device Management (Microsoft Intune, MDM)
 * IT Troubleshooting & Support
 
 ---
@@ -69,6 +71,22 @@ This repository showcases hands-on lab projects where I design, build, and troub
 
 ---
 
+### 🔹 Identity & Device Management Lab (Intune + Entra ID)
+
+**Objective:** Implement cloud-based identity, access control, and device management
+
+**What I Did:**
+
+* Configured users and groups in Microsoft Entra ID
+* Enabled Multi-Factor Authentication (MFA)
+* Enrolled devices into Microsoft Intune (MDM)
+* Applied device compliance and security policies
+* Tested secure login and conditional access
+
+📂 [View Project](intune-entra-lab/README.md)
+
+---
+
 ### 🔹 Scripting & Automation
 
 **PowerShell:**
@@ -107,6 +125,8 @@ This repository showcases hands-on lab projects where I design, build, and troub
 * Windows Server 2019/2022
 * Linux (Ubuntu / CentOS)
 * AWS & Microsoft Azure
+* Microsoft Entra ID (Azure AD)
+* Microsoft Intune (MDM)
 * VMware / VirtualBox
 * PowerShell, Bash, Python
 * SpiceWorks Ticketing System
@@ -115,6 +135,7 @@ This repository showcases hands-on lab projects where I design, build, and troub
 
 ## 📌 Goal
 
-To continuously improve my skills and transition into a role in IT support, system administration, or cloud engineering.
+To continuously improve my skills and transition into a role in IT support, system administration, networking, or cloud engineering.
 
 ---
+
