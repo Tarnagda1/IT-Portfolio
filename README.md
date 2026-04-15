@@ -1,83 +1,100 @@
 # 👋 Hi, I'm Tarnagda
 
-Welcome to my personal project! I'm an entry-level IT professional passionate about systems administration, networking, and Security. This project showcases my hands-on experience with technologies across operating systems, hardware, networking, cloud and virtualization.
+# 🏠 Home Lab Portfolio – IT Infrastructure & Security
+
+## 👨‍💻 About Me
+I am an entry-level IT professional with a strong interest in systems administration, networking, and cybersecurity.  
+This repository showcases hands-on lab projects where I design, build, and troubleshoot real-world IT environments using industry-standard tools and platforms.
 
 ---
 
-## 🧰 IT Infrastructure & Administration Projects
-  
-**Description:** This project focuses on microsoft server and linux Administration, troubleshooting and network configuration in a lab environment. 
-It's designed to demonstrate my foundational skills in IT infrastructure and support, using tools and platforms I've worked with during labs, coursework, and self-learning.
+## 🧠 Key Skills Demonstrated
+- Windows Server Administration (Active Directory, DNS, DHCP)
+- Linux System Administration
+- Networking (VLANs, OSPF, NAT, ACLs)
+- Cloud Computing (AWS & Azure)
+- Virtualization (VMware, VirtualBox)
+- Scripting & Automation (PowerShell, Bash, Python)
+- IT Troubleshooting & Support
 
 ---
 
-## 🖥️ Microsoft Windows Server Administration
+## 🧰 Featured Projects
 
-- [Installation of Windows Server](docs/insttalation-windows-server.md)
-- [Active Directory setup & Management](docs/active-directory-setup.md)
-- [DHCP & DNS deployment](docs/dhcp-dns-deployment.md)
-- [Print services configuration](docs/print-services-configuration.md)
-- [Folder permissions & shared drive](docs/folder-permissions-shared-drive.md)
+### 🔹 Active Directory Domain Lab
+Objective: Build and manage a Windows Server domain environment  
 
----
+What I Did:
+- Installed Windows Server and configured as Domain Controller  
+- Created Organizational Units (OUs) and users  
+- Configured Group Policy Objects (GPOs)  
+- Joined Windows 10 client to domain  
+- Tested authentication and access control  
 
-## 🌐 Networking (Lab-Based)
-
-- [VLAN & inter-VLAN routing](docs/networking/vlan-routing.md)
-- [OSPF, NAT, ACLs, STP](docs/networking/ospf-nat-acls-stp.md)
-- [Subnetting exercises](docs/networking/subnetting-exercises.md)
-- [VPN & firewall config](docs/networking/vpn-firewall-config.md)
+📸 Includes: Screenshots, configurations, and test results  
 
 ---
 
-## 🖥️ Virtualization
+### 🔹 Networking Lab (VLANs & Routing)
+Objective: Simulate a segmented enterprise network  
 
-- [Multi-VM labs with VirtualBox & VMware](docs/virtualization/multi-vm-labs.md)
+What I Did:
+- Configured VLANs and inter-VLAN routing  
+- Implemented OSPF routing  
+- Applied NAT and Access Control Lists (ACLs)  
+- Tested connectivity between subnets  
 
----
-
-## ☁️ Cloud Projects
-
-### Microsoft Azure 
-
-- [Deployed VMs, networks, NSGs, Storage](docs/cloud/azure.md)
-
-### AWS
-
-- [EC2, EBS, VPC configuration](docs/cloud/aws.md)
+📸 Includes: Network diagram + CLI configurations  
 
 ---
 
-## ⚙️ Programming & Scripts
+### 🔹 AWS Cloud Infrastructure Lab
+Objective: Deploy and secure cloud-based infrastructure  
 
-### 💻 PowerShell Scripts
+What I Did:
+- Created VPC with public and private subnets  
+- Launched EC2 instances  
+- Configured Security Groups and NACLs  
+- Attached and managed EBS volumes  
 
-- [AD bulk user creation](docs/scripts/powershell-ad-user-creation.md) 
-- [File system and printing automation](docs/scripts/powershell-file-printing.md)
-
-### 🐧 Bash Scripts
-
-- [Linux user & system updates](docs/scripts/bash-linux-updates.md)
-
-### 🐍 Python Scripts
-
-- [File automation](docs/scripts/python-file-automation.md)  
-- [CLI utilities](docs/scripts/python-cli-utilities.md)
-
-### 🗃️ SQL Projects
-
-- [Basic queries](docs/sql/basic-queries.md)
-- [Simulated lab databases](docs/sql/simulated-lab-databases.md)
+📸 Includes: Architecture diagram and deployment steps  
 
 ---
 
-## 🧾 Microsoft Office 365
+### 🔹 Scripting & Automation
+PowerShell:
+- Automated Active Directory user creation  
+- Managed file permissions  
 
-- [Word and PowerPoint](docs/o365/word-powerpoint-examples.md)
+Bash:
+- Automated system updates and user management  
+
+Python:
+- Built CLI tools for file handling  
 
 ---
 
-## 🎫 Ticketing System: SpiceWorks
+### 🔹 IT Support Simulation (SpiceWorks)
+Objective: Simulate real-world helpdesk scenarios  
 
-- [Sample tickets](docs/ticketing/spiceworks-sample-tickets.md)
-- [Issue tracking walkthroughs](docs/ticketing/issue-tracking-walkthrough.md)
+Examples:
+- Resolved user login issues (Active Directory permissions)  
+- Troubleshot printer connectivity issues  
+- Documented ticket lifecycle and resolution steps  
+
+---
+
+## 🧪 Tools & Technologies
+- Windows Server 2019/2022  
+- Linux (Ubuntu / CentOS)  
+- AWS & Microsoft Azure  
+- VMware / VirtualBox  
+- PowerShell, Bash, Python  
+- SpiceWorks Ticketing System  
+
+---
+
+## 📌 Goal
+To continuously improve my skills and transition into a role in IT support, system administration, or cloud engineering.
+
+--
