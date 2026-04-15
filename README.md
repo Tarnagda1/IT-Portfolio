@@ -22,49 +22,44 @@ This repository showcases hands-on lab projects where I design, build, and troub
 ## 🧰 Featured Projects
 
 ### 🔹 Active Directory Domain Lab  
-📂 View Project  
-Design and deployment of a Windows Server domain environment with centralized authentication, Group Policy enforcement, and user management.
+Design and deployment of a Windows Server domain environment with centralized authentication, Group Policy enforcement, and user management.  
+
+📂 View Project
 
 ---
 
 ### 🔹 Networking Lab (VLANs & Routing)  
-📂 View Project  
-Simulation of a segmented enterprise network with VLANs, inter-VLAN routing, OSPF, NAT, and ACL configurations.
+Simulation of a segmented enterprise network with VLANs, inter-VLAN routing, OSPF, NAT, and ACL configurations.  
+
+📂 View Project
 
 ---
 
 ### 🔹 Web Infrastructure & Load Balancing Lab  
-📂 View Project  
-Multi-server architecture using Linux with load balancing (iptables NAT), rsync synchronization, and SSH key-based authentication.
+Multi-server architecture using Linux with load balancing (iptables NAT), rsync synchronization, and SSH key-based authentication.  
+
+📂 View Project
 
 ---
 
 ### 🔹 AWS Cloud Infrastructure Lab  
-📂 View Project  
-Deployment of secure cloud infrastructure using VPC, EC2, subnets, and security groups.
+Deployment of secure cloud infrastructure using VPC, EC2, subnets, and security groups.  
+
+📂 View Project
 
 ---
 
 ### 🔹 Scripting & Automation  
-📂 View Project  
+Automation scripts for system administration tasks using PowerShell, Bash, and Python.  
 
-PowerShell:
-- Active Directory bulk user creation  
-- File system automation  
-
-Bash:
-- Linux user management  
-- System update automation  
-
-Python:
-- File handling scripts  
-- CLI utilities  
+📂 View Project
 
 ---
 
 ### 🔹 IT Support Simulation (Ticketing System)  
-📂 View Project  
-Simulation of real-world IT support tasks using a ticketing system with documented troubleshooting and issue resolution.
+Simulation of real-world IT support scenarios with ticket documentation and troubleshooting workflows.  
+
+📂 View Project
 
 ---
 
@@ -84,11 +79,17 @@ home-lab-repo/
 │── README.md  
 │  
 ├── windows-server-ad/  
+│   └── README.md  
 ├── networking-lab/  
+│   └── README.md  
 ├── load-balancing-lab/  
+│   └── README.md  
 ├── aws-lab/  
+│   └── README.md  
 ├── scripting-automation/  
+│   └── README.md  
 └── helpdesk-lab/  
+    └── README.md  
 
 ---
 
