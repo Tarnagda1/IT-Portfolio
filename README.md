@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me
 I am an entry-level IT professional with a strong interest in systems administration, networking, and cybersecurity.  
-This repository showcases hands-on lab projects where I design, build, and troubleshoot real-world IT environments using industry-standard tools and platforms.
+This repository showcases hands-on lab projects where I design, build, and troubleshoot real-world IT environments using Windows Server, Linux, AWS, and networking tools.
 
 ---
 
@@ -14,62 +14,87 @@ This repository showcases hands-on lab projects where I design, build, and troub
 - Networking (VLANs, OSPF, NAT, ACLs)  
 - Cloud Computing (AWS & Azure)  
 - Virtualization (VMware, VirtualBox)  
-- Scripting & Automation (PowerShell, Bash, Python)  
-- IT Troubleshooting & Support  
+- Scripting (PowerShell, Bash, Python)  
+- IT Troubleshooting & Helpdesk Support  
 
 ---
 
 ## 🧰 Featured Projects
 
-### 🔹 Active Directory Domain Lab  
-Design and deployment of a Windows Server domain environment with centralized authentication, Group Policy enforcement, and user management.  
+---
 
-📂 View Project
+### 🔹 Active Directory Domain Lab  
+Built a Windows Server domain environment with centralized authentication, user management, and Group Policy configuration.
+
+- Domain Controller setup  
+- Organizational Units (OUs)  
+- Group Policy Objects (GPOs)  
+- Client domain join testing  
+
+📂 View Project: windows-server-ad
 
 ---
 
 ### 🔹 Networking Lab (VLANs & Routing)  
-Simulation of a segmented enterprise network with VLANs, inter-VLAN routing, OSPF, NAT, and ACL configurations.  
+Simulated enterprise network with VLAN segmentation, inter-VLAN routing, and dynamic routing configuration.
 
-📂 View Project
+- VLAN setup  
+- Inter-VLAN routing  
+- OSPF routing  
+- NAT and ACL configuration  
+
+📂 View Project: networking-lab
 
 ---
 
 ### 🔹 Web Infrastructure & Load Balancing Lab  
-Multi-server architecture using Linux with load balancing (iptables NAT), rsync synchronization, and SSH key-based authentication.  
+Built a multi-server Linux environment with load balancing and synchronization between servers.
 
-📂 View Project
+- Load balancing (iptables NAT)  
+- Multiple web servers  
+- rsync synchronization  
+- SSH key authentication  
+
+📂 View Project: load-balancing-lab
 
 ---
 
 ### 🔹 AWS Cloud Infrastructure Lab  
-Deployment of secure cloud infrastructure using VPC, EC2, subnets, and security groups.  
+Deployed a secure cloud architecture using AWS services.
 
-📂 View Project
+- VPC setup  
+- Public and private subnets  
+- EC2 instances  
+- Security Groups and NACLs  
+
+📂 View Project: aws-lab
 
 ---
 
 ### 🔹 Scripting & Automation  
-Automation scripts for system administration tasks using PowerShell, Bash, and Python.  
+Automation of system administration tasks using multiple scripting languages.
 
-📂 View Project
+- PowerShell (AD automation, user creation)  
+- Bash (system updates, user management)  
+- Python (file handling utilities)  
+
+📂 View Project: scripting-automation
 
 ---
 
-### 🔹 IT Support Simulation (Ticketing System)  
-Simulation of real-world IT support scenarios with ticket documentation and troubleshooting workflows.  
+### 🔹 IT Support Simulation (Helpdesk Lab)  
+Simulated real-world IT support ticketing and troubleshooting scenarios.
 
-📂 View Project
+- Ticket creation and tracking  
+- Troubleshooting documentation  
+- Issue resolution workflows  
+
+📂 View Project: helpdesk-lab
 
 ---
 
 ## 🧪 Tools & Technologies
-- Windows Server 2019/2022  
-- Linux (Ubuntu / CentOS)  
-- AWS & Microsoft Azure  
-- VMware / VirtualBox  
-- PowerShell, Bash, Python  
-- SpiceWorks Ticketing System  
+Windows Server • Linux • AWS • Azure • VMware • VirtualBox • PowerShell • Bash • Python • SpiceWorks
 
 ---
 
@@ -94,6 +119,6 @@ home-lab-repo/
 ---
 
 ## 📌 Goal
-To continuously improve my skills and transition into a role in IT support, system administration, or cloud engineering.
+To build real-world IT experience through hands-on labs and prepare for roles in IT support, system administration, networking, and cloud engineering.
 
 --
