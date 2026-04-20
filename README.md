@@ -4,8 +4,8 @@
 
 ## 👨‍💻 About Me
 
-I am an entry-level IT professional with a strong interest in systems administration, networking, and cybersecurity.
-This repository showcases hands-on lab projects where I design, build, and troubleshoot real-world IT environments using industry-standard tools and platforms.
+I am an entry level IT professional with a strong interest in systems administration, networking, and cybersecurity.
+This repository showcases hands on lab projects where I design, build, and troubleshoot real world IT environments using industry standard tools and platforms.
 
 ---
 
@@ -58,7 +58,7 @@ This repository showcases hands-on lab projects where I design, build, and troub
 
 ### 🔹 AWS Cloud Infrastructure Lab
 
-**Objective:** Deploy and secure cloud-based infrastructure
+**Objective:** Deploy and secure cloud based infrastructure
 
 **What I Did:**
 
@@ -106,9 +106,9 @@ This repository showcases hands-on lab projects where I design, build, and troub
 
 ---
 
-### 🔹 IT Support Simulation (SpiceWorks)
+### 🔹 IT Support Simulation (ServiceNow)
 
-**Objective:** Simulate real-world helpdesk scenarios
+**Objective:** Simulate real world helpdesk scenarios
 
 **Examples:**
 
@@ -129,13 +129,13 @@ This repository showcases hands-on lab projects where I design, build, and troub
 * Microsoft Intune (MDM)
 * VMware / VirtualBox
 * PowerShell, Bash, Python
-* SpiceWorks Ticketing System
+* Servive Now Ticketing System
 
 ---
 
 ## 📌 Goal
 
-To continuously improve my skills and transition into a role in IT support, system administration, networking, or cloud engineering.
+To continuously improve my skills through hands on projects in DevOps and Cloud Environments.
 
 ---
 
