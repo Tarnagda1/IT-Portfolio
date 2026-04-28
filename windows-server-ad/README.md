@@ -12,17 +12,17 @@ The goal of this project is to design and implement a Windows Server Active Dire
 | ---------- | -------------------- |
 | Hypervisor | VMware / VirtualBox  |
 | Server OS  | Windows Server 2022  |
-| Client OS  | Windows 10           |
+| Client OS  | Windows 11           |
 | Network    | Internal Lab Network |
 
 ---
 
 ## 🖥️ Network Design
 
-* Domain Controller: 192.168.1.10
-* Client Machine: 192.168.1.20
-
-*(Add your diagram screenshot here)*
+* Domain Controller: 172.16.130.10
+* ServerCore: 172.16.130.20
+* Admin VM : 172.16.130.100
+* Client Machine: 172.16.130.101
 
 ---
 
@@ -39,22 +39,23 @@ The goal of this project is to design and implement a Windows Server Active Dire
 
 * Installed AD DS role
 * Promoted server to Domain Controller
-* Created domain: `homelab.local`
+* Created domain: `homelab.net`
 
 ---
 
 ### 3. Create Organizational Units (OUs)
 
 * HR
-* IT
-* Sales
+* Marketing
+* SalesReps
+* Executives
 
 ---
 
 ### 4. User & Group Management
 
 * Created users for each department
-* Assigned users to security groups
+* Assigned users to Global Security Groups
 
 ---
 
@@ -80,33 +81,6 @@ Implemented the following policies:
 * Successfully logged in as domain users
 * Verified GPO policies applied correctly
 * Tested access restrictions between departments
-
----
-
-## 🐞 Problems Encountered & Fixes
-
-### Issue 1: Client Could Not Join Domain
-
-**Cause:** DNS misconfiguration
-**Fix:** Set client DNS to Domain Controller IP
-
----
-
-### Issue 2: GPO Not Applying
-
-**Cause:** Policy not updated
-**Fix:** Ran `gpupdate /force` and rebooted machine
-
----
-
-## 📸 Screenshots
-
-*(Add screenshots here)*
-
-* AD Users and Computers
-* Group Policy Management
-* Domain login screen
-* OU structure
 
 ---
 
