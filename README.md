@@ -12,14 +12,14 @@ This repository showcases hands on lab projects where I design, build, and troub
 ## 🧠 Key Skills Demonstrated
 
 * Windows Server Administration (Active Directory, DNS, DHCP)
-* Linux System Administration
-* Networking (VLANs, OSPF, NAT, ACLs)
-* Cloud Computing (AWS & Azure)
-* Virtualization (VMware, VirtualBox)
-* Scripting & Automation (PowerShell, Bash, Python)
 * Identity & Access Management (Microsoft Entra ID, MFA)
 * Device Management (Microsoft Intune, MDM)
 * IT Troubleshooting & Support
+* Networking (VLANs, OSPF, NAT, ACLs)
+* Cloud Computing (AWS & Azure)
+* Linux System Administration
+* Scripting & Automation (PowerShell, Bash, Python)
+* Virtualization (VMware, VirtualBox)
 
 ---
 
@@ -31,13 +31,44 @@ This repository showcases hands on lab projects where I design, build, and troub
 
 **What I Did:**
 
-* Installed Windows Server and configured as Domain Controller
-* Created Organizational Units (OUs) and users
+* Installed Windows Server and configured it as a Domain Controller
+* Created Organizational Units (OUs), users, and groups
 * Configured Group Policy Objects (GPOs)
-* Joined Windows 10 client to domain
+* Joined a Windows 10 client to the domain
 * Tested authentication and access control
 
 📂 [View Project](windows-server-ad/README.md)
+
+---
+
+### 🔹 Identity & Device Management Lab (Intune + Entra ID)
+
+**Objective:** Implement cloud-based identity, access control, and device management
+
+**What I Did:**
+
+* Configured users and groups in Microsoft Entra ID
+* Enabled Multi-Factor Authentication (MFA)
+* Enrolled devices into Microsoft Intune (MDM)
+* Applied device compliance and security policies
+* Tested secure login and Conditional Access
+
+📂 [View Project](intune-entra-lab/README.md)
+
+---
+
+### 🔹 IT Support & Ticketing Lab (ServiceNow)
+
+**Objective:** Simulate real-world help desk and IT support scenarios
+
+**What I Did:**
+
+* Resolved user login and Active Directory permission issues
+* Troubleshot printer and network connectivity issues
+* Worked with common user support requests
+* Documented ticket lifecycle and resolution steps
+
+📂 [View Project](helpdesk-lab/README.md)
 
 ---
 
@@ -58,32 +89,16 @@ This repository showcases hands on lab projects where I design, build, and troub
 
 ### 🔹 AWS Cloud Infrastructure Lab
 
-**Objective:** Deploy and secure cloud based infrastructure
+**Objective:** Deploy and secure cloud-based infrastructure
 
 **What I Did:**
 
-* Created VPC with public and private subnets
-* Launched EC2 instances
+* Created a VPC with public and private subnets
+* Launched and configured EC2 instances
 * Configured Security Groups and NACLs
 * Attached and managed EBS volumes
 
 📂 [View Project](aws-lab/README.md)
-
----
-
-### 🔹 Identity & Device Management Lab (Intune + Entra ID)
-
-**Objective:** Implement cloud-based identity, access control, and device management
-
-**What I Did:**
-
-* Configured users and groups in Microsoft Entra ID
-* Enabled Multi-Factor Authentication (MFA)
-* Enrolled devices into Microsoft Intune (MDM)
-* Applied device compliance and security policies
-* Tested secure login and conditional access
-
-📂 [View Project](intune-entra-lab/README.md)
 
 ---
 
@@ -106,36 +121,6 @@ This repository showcases hands on lab projects where I design, build, and troub
 
 ---
 
-### 🔹 IT Support Simulation (ServiceNow)
-
-**Objective:** Simulate real world helpdesk scenarios
-
-**Examples:**
-
-* Resolved user login issues (Active Directory permissions)
-* Troubleshot printer connectivity issues
-* Documented ticket lifecycle and resolution steps
-
-📂 [View Project](helpdesk-lab/README.md)
-
----
-
-## 🧪 Tools & Technologies
-
-* Windows Server 2019/2022
-* Linux (Ubuntu / CentOS)
-* AWS & Microsoft Azure
-* Microsoft Entra ID (Azure AD)
-* Microsoft Intune (MDM)
-* VMware / VirtualBox
-* PowerShell, Bash, Python
-* Servive Now Ticketing System
-
----
-
 ## 📌 Goal
 
-To continuously improve my skills through hands on projects in DevOps and Cloud Environments.
-
----
-
+To continuously improve my skills through hands-on projects in system administration, cloud computing, automation, and DevOps.
