@@ -37,7 +37,11 @@ This repository showcases hands on lab projects where I design, build, and troub
 * Joined a Windows 10 client to the domain
 * Tested authentication and access control
 
-📂 [View Project](windows-server-ad/README.md)
+### 📸 Preview
+
+![Active Directory Lab](windows-server-ad/screenshots/ad-preview.png)
+
+📂 [View Full Project](windows-server-ad/README.md)
 
 ---
 
@@ -53,7 +57,11 @@ This repository showcases hands on lab projects where I design, build, and troub
 * Applied device compliance and security policies
 * Tested secure login and Conditional Access
 
-📂 [View Project](intune-entra-lab/README.md)
+### 📸 Preview
+
+![Intune and Entra ID Lab](intune-entra-lab/screenshots/intune-preview.png)
+
+📂 [View Full Project](intune-entra-lab/README.md)
 
 ---
 
@@ -68,7 +76,11 @@ This repository showcases hands on lab projects where I design, build, and troub
 * Worked with common user support requests
 * Documented ticket lifecycle and resolution steps
 
-📂 [View Project](helpdesk-lab/README.md)
+### 📸 Preview
+
+![ServiceNow IT Support Lab](helpdesk-lab/screenshots/servicenow-preview.png)
+
+📂 [View Full Project](helpdesk-lab/README.md)
 
 ---
 
@@ -83,7 +95,11 @@ This repository showcases hands on lab projects where I design, build, and troub
 * Applied NAT and Access Control Lists (ACLs)
 * Tested connectivity between subnets
 
-📂 [View Project](networking-lab/README.md)
+### 📸 Preview
+
+![Networking Lab](networking-lab/screenshots/network-preview.png)
+
+📂 [View Full Project](networking-lab/README.md)
 
 ---
 
@@ -98,7 +114,11 @@ This repository showcases hands on lab projects where I design, build, and troub
 * Configured Security Groups and NACLs
 * Attached and managed EBS volumes
 
-📂 [View Project](aws-lab/README.md)
+### 📸 Preview
+
+![AWS Cloud Infrastructure Lab](aws-lab/screenshots/aws-preview.png)
+
+📂 [View Full Project](aws-lab/README.md)
 
 ---
 
@@ -117,10 +137,29 @@ This repository showcases hands on lab projects where I design, build, and troub
 
 * Built CLI tools for file handling
 
-📂 [View Project](scripting-automation/README.md)
+### 📸 Preview
+
+![Scripting and Automation](scripting-automation/screenshots/automation-preview.png)
+
+📂 [View Full Project](scripting-automation/README.md)
+
+---
+
+## 🧪 Tools & Technologies
+
+* Windows Server 2019/2022
+* Linux (Ubuntu / CentOS)
+* Microsoft Entra ID
+* Microsoft Intune (MDM)
+* ServiceNow
+* AWS & Microsoft Azure
+* VMware / VirtualBox
+* PowerShell, Bash, Python
 
 ---
 
 ## 📌 Goal
 
 To continuously improve my skills through hands-on projects in system administration, cloud computing, automation, and DevOps.
+
+---
