@@ -21,7 +21,7 @@ The goal of this project is to design and implement a Windows Server Active Dire
 
 * Domain Controller: 172.16.130.10
 * ServerCore: 172.16.130.20
-* Admin VM : 172.16.130.100
+* Admin VM: 172.16.130.100
 * Client Machine: 172.16.130.101
 
 ---
@@ -31,24 +31,32 @@ The goal of this project is to design and implement a Windows Server Active Dire
 ### 1. Install Windows Server
 
 * Installed Windows Server 2022 on a virtual machine
-* Configured static IP address
+* Configured a static IP address
+
+![Windows Server Configuration](screenshots/domain-controller.png)
 
 ---
 
 ### 2. Configure Active Directory Domain Services (AD DS)
 
-* Installed AD DS role
-* Promoted server to Domain Controller
+* Installed the AD DS role
+* Promoted the server to Domain Controller
 * Created domain: `homelab.net`
+
+![Active Directory Domain Services](screenshots/ad-ds.png)
 
 ---
 
 ### 3. Create Organizational Units (OUs)
 
+Created Organizational Units for:
+
 * HR
 * Marketing
 * SalesReps
 * Executives
+
+![Active Directory Organizational Units](screenshots/ad-users-ous.png)
 
 ---
 
@@ -56,6 +64,8 @@ The goal of this project is to design and implement a Windows Server Active Dire
 
 * Created users for each department
 * Assigned users to Global Security Groups
+
+![Users and Groups](screenshots/users-groups.png)
 
 ---
 
@@ -67,12 +77,16 @@ Implemented the following policies:
 * Disabled USB storage access
 * Configured desktop restrictions
 
+![Group Policy Configuration](screenshots/group-policy.png)
+
 ---
 
 ### 6. Join Client to Domain
 
-* Connected Windows 10 machine to domain
+* Connected Windows 11 client to the `homelab.net` domain
 * Verified domain login functionality
+
+![Client Domain Join](screenshots/domain-join.png)
 
 ---
 
@@ -81,6 +95,8 @@ Implemented the following policies:
 * Successfully logged in as domain users
 * Verified GPO policies applied correctly
 * Tested access restrictions between departments
+
+![Domain Authentication Test](screenshots/authentication-test.png)
 
 ---
 
