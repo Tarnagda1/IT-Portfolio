@@ -51,10 +51,9 @@ The goal of this project is to design and implement a Windows Server Active Dire
 
 Created Organizational Units for:
 
-* HR
-* Marketing
-* SalesReps
-* Executives
+* Toronto
+* Montreal
+* Vancouver
 
 ![Active Directory Organizational Units](screenshots/ad-users-ous.png)
 
