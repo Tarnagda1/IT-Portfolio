@@ -35,7 +35,7 @@ The goal of this lab was to practice managing users, securing accounts, and mana
 * Enabled MFA for the test account
 * Signed in with the account to verify that additional authentication was required
 
-![MFA](screenshots/mfa.png)
+![MFA](screenshots/MFA.png)
 
 ---
 
