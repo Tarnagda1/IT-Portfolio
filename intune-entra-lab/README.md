@@ -26,8 +26,9 @@ The goal of this lab was to practice managing users, securing accounts, and mana
 * Created groups and added users as members
 * Used groups to organize users and assign access
 
-![Entra ID Users and Groups](screenshots/entra-users-groups.png)
-![Entra ID Users and Groups](screenshots/entra-users-groups(2).png)
+![Entra ID Users accounts](screenshots/entra-users1.png)
+![Entra ID Users accounts](screenshots/entra-users2.png)
+![Entra ID groups](screenshots/entra-groups.png)
 
 ---
 
