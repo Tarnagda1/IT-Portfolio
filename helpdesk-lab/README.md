@@ -1,8 +1,8 @@
-# 🎫 IT Support & Ticketing Lab — ServiceNow
+# 🎫 IT Support & Ticketing Lab — Jira
 
 ## 🎯 Objective
 
-The goal of this lab was to practice using ServiceNow as an IT support ticketing system. I worked with incident tickets, documented troubleshooting steps, updated ticket information, and followed the ticket from creation to resolution.
+The goal of this lab was to practice using Jira as an IT support ticketing system. I worked with incident tickets, documented troubleshooting steps, updated ticket information, and followed the ticket from creation to resolution.
 
 ---
 
@@ -10,10 +10,10 @@ The goal of this lab was to practice using ServiceNow as an IT support ticketing
 
 | Component | Details |
 | ---------- | ------- |
-| Ticketing Platform | ServiceNow |
+| Ticketing Platform | Jira |
 | Ticket Type | Incident |
 | Support Area | IT Help Desk |
-| Environment | ServiceNow Training / Lab Instance |
+| Environment | Jira Training / Lab Instance |
 
 ---
 
@@ -73,13 +73,13 @@ To verify the ticketing process, I checked that:
 * Troubleshooting steps were documented in the work notes
 * Resolution information was recorded before closing the incident
 
-![ServiceNow Incident](screenshots/servicenow-preview.png)
+![ServiceNow Incident](screenshots/Jira-preview.png)
 
 ---
 
 ## 🧠 Skills Practiced
 
-* ServiceNow Incident Management
+* Jira Incident Management
 * IT Help Desk Ticketing
 * Incident Categorization and Prioritization
 * Ticket Assignment
