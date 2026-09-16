@@ -65,7 +65,7 @@ This repository showcases hands on lab projects where I design, build, and troub
 
 ---
 
-### 🔹 IT Support & Ticketing Lab (ServiceNow)
+### 🔹 IT Support tickets (Jira)
 
 **Objective:** Simulate real-world help desk and IT support scenarios
 
@@ -78,7 +78,7 @@ This repository showcases hands on lab projects where I design, build, and troub
 
 ### 📸 Preview
 
-![ServiceNow IT Support Lab](helpdesk-lab/screenshots/servicenow-preview.png)
+![ServiceNow IT Support Lab](helpdesk-lab/screenshots/jira-preview.png)
 
 📂 [View Full Project](helpdesk-lab/README.md)
 
