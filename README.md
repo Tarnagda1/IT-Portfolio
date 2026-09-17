@@ -78,7 +78,7 @@ This repository showcases hands on lab projects where I design, build, and troub
 
 ### 📸 Preview
 
-![Jira IT Support Lab](helpdesk-lab/screenshots/Jira-preview.png)
+![Jira IT Support tickets](helpdesk-lab/screenshots/Jira-preview.png)
 
 📂 [View Full Project](helpdesk-lab/README.md)
 
