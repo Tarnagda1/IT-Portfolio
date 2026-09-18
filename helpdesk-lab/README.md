@@ -73,7 +73,6 @@ To verify the ticketing process, I checked that:
 * Troubleshooting steps were documented in the work notes
 * Resolution information was recorded before closing the incident
 
-![ Jira Incident](screenshots/Jira-preview.png)
 
 ---
 
